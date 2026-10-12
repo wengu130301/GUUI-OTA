@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1778227200,
+      "filename": "guui_apex_polaris-22.2-20261012-UNOFFICIAL.zip",
+      "id": "guui-22.2-20261012-polaris",
+      "romtype": "unofficial",
+      "size": 2147483648,
+      "url": "https://github.com/wengu130301/GUUI-OTA/releases/download/v22.2-20261012/guui_apex_polaris-22.2-20261012-UNOFFICIAL.zip",
+      "version": "22.2"
+    }
+  ]
+}
